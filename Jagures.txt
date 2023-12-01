@@ -1,0 +1,7 @@
+team : Jagures
+
+manager : hyunseo
+
+members :
+- Jinho
+
