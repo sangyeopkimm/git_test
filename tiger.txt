@@ -1,0 +1,9 @@
+team : leopard
+
+manager : Donga
+
+members :
+-Jinho
+-Inhyeck
+-Seop
+-George
