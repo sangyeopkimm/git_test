@@ -1,6 +1,0 @@
-team : lions
-
-manager : seop
-
-members :
-- Jinho

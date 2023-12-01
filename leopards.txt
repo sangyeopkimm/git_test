@@ -1,0 +1,7 @@
+team : Leopard
+
+manager : hyeonseo
+
+members :
+- Jinho
+

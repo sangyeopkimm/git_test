@@ -1,6 +1,6 @@
 team : leopard
 
-manager : Donga
+manager : Miseon
 
 members :
 -Jinho
