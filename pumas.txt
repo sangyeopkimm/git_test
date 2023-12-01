@@ -1,0 +1,7 @@
+team : Puma
+
+manager :  Jude
+
+members :
+- Jinho
+
