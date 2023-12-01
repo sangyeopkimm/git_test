@@ -1,0 +1,7 @@
+team : chetas
+
+manager : SeopSeop
+
+members :
+- Jinho
+- HyeonSeo
