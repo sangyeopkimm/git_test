@@ -2,6 +2,8 @@ team : leopard
 
 manager : Miseon
 
+coach : Grace
+
 members :
 -Jinho
 -Inhyeck
