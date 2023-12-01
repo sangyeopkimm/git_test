@@ -1,6 +1,7 @@
 team : leopard
 
-manager : JeongSeop
+
+manager : GyuMin
 
 coach : Grace
 
