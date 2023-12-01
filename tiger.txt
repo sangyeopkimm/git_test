@@ -7,3 +7,4 @@ members :
 -Inhyeck
 -Seop
 -George
+-Donga
