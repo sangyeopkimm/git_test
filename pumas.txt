@@ -1,6 +1,6 @@
 team : Puma
 
-manager :  Jude
+manager : Seop
 
 members :
 - Jinho
